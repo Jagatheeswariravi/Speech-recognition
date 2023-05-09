@@ -121,8 +121,7 @@ def save_video_sentiments(url):
 
 
 
-if __name__ == "__main__":
-    save_video_sentiments("https://www.youtube.com/watch?v=vNxyOhyPGEs&t=169s")
+
 
     
 
