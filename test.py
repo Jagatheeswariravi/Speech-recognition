@@ -1,4 +1,6 @@
-import yt_dlp
+from podcast import *
+import streamlit as st
 
-video = "http://www.youtube.com/watch?v=BaW_jenozKc"
+
+save_transcript("e8f0207c18ed4260add33f641dc01fc1") 
 
